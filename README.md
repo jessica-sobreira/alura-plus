@@ -1,6 +1,7 @@
 <h1 align ="center">Alura Plus</h1>
 
-![Imagem de telas do curso da Alura](https://user-images.githubusercontent.com/117686537/201401992-2eddd1b0-a662-4fa1-ac2d-e87460458785.png)
+![Imagem do Alura Plus](https://user-images.githubusercontent.com/117686537/207966486-f478bc70-baa9-4b40-bc48-0620c2be881a.png)
+
 
 ![GitHub issues](https://img.shields.io/github/issues/jessica-sobreira/alura-plus)
 ![GitHub Org's stars](https://img.shields.io/github/stars/jessica-sobreira/alura-plus)
