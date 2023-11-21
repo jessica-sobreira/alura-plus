@@ -8,9 +8,6 @@
 
 Alura Plus foi um projeto desenvolvido na aula "HTML e CSS: praticando HTML/CSS", ministrado pela instrutora Mônica Hillman. O objetivo foi colocar em prática os conhecimentos transmitidos no curso para o aperfeiçoamento do futuro Desenvolver Front-End.
 
-<h2 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h2>
 
 # :hammer: Funcionalidades do projeto
 
